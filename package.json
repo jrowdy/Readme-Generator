@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrowdy/Readme-Generator.git"
+  },
+  "author": "Jasmin Rowdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrowdy/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/jrowdy/Readme-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  }
+}
