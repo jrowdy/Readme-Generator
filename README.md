@@ -10,7 +10,8 @@
 3. Installation
 4. Usage
 5. Contributors
-6. Questions?
+6. Questions
+7. Contact Info
 ----------------------------
 ## Description
 This application uses Node CLI to build Readme for users after they answer a few simple questions about their application.
@@ -22,3 +23,5 @@ HTML, JavaScript, Inquirer.js, Node, Axios
 1. Type: "node index.js" in your terminal. 2. Follow the prompts in the terminal. 3. When you are finished, the Readme file will populate in your local repo.
 ## Contributors
 Jasmin Rowdy
+## Contact Info
+jmrowdy20@gmail.com
