@@ -42,6 +42,11 @@ const questions = [
     type: "input",
     message: "Questions",
     name: "questions",
+  },
+ {
+    type: "input",
+    message: "What are the email addresses of the project contributors?",
+    name: "contact",
   }
 ]
  
@@ -70,6 +75,7 @@ const finalReadme = (userData, data) => {
 4. Usage
 5. Contributors
 6. Questions?
+7. Contact Information
 ----------------------------
 ## Description
 ${data.description}
@@ -82,7 +88,9 @@ ${data.usage}
 ## Contributors
 ${data.contributors}
 ## Questions?
-${data.questions}
+${data.questions
+## Contact Information
+${data.contact}
 `  
 }
  
