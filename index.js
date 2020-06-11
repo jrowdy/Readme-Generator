@@ -20,7 +20,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "lanuages",
+    name: "languages",
     message: "What technologies or languages did you use to build this application?",
   },
   {
