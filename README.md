@@ -1,5 +1,7 @@
 
 # Readme Generator
+![image](https://user-images.githubusercontent.com/58674083/84425414-88455500-abef-11ea-8d74-a24271b4eedb.png)
+--------------------------
 ![](https://avatars0.githubusercontent.com/u/58674083?v=4)
 ---------------------------
 ## Table Of Contents
@@ -20,5 +22,3 @@ HTML, JavaScript, Inquirer.js, Node, Axios
 1. Type: "node index.js" in your terminal. 2. Follow the prompts in the terminal. 3. When you are finished, the Readme file will populate in your local repo.
 ## Contributors
 Jasmin Rowdy
-## Questions?
-N/A
