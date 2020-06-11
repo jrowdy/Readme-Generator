@@ -13,7 +13,7 @@
 ## Description
 This application uses Node CLI to build Readme for users after they answer a few simple questions about their application.
 ## Technologies Used
-undefined
+HTML, JavaScript, Inquirer.js, Node, Axios
 ## Installation
 1. Clone this repo from Github. 2. Type "npm install" to add any included packages.
 ## Usage
