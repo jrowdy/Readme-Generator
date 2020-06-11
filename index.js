@@ -57,7 +57,7 @@ const github = {
  
  
  
-const generateMarkdown = (userData, data) => {
+const finalReadme = (userData, data) => {
   
   return `
 # ${data.title}
@@ -87,7 +87,7 @@ ${data.questions}
 }
  
 const userInfo = (userData, data) => {
-  let readmeInfo =  generateMarkdown(userData, data);
+  let readmeInfo =  finalReadme(userData, data);
   writeToFile("README.md", readmeInfo)
 }
  
