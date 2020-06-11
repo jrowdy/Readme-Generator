@@ -10,8 +10,7 @@
 3. Installation
 4. Usage
 5. Contributors
-6. Questions
-7. Contact Info
+6. Contact Info
 ----------------------------
 ## Description
 This application uses Node CLI to build Readme for users after they answer a few simple questions about their application.
